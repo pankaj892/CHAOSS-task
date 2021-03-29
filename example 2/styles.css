@@ -1,0 +1,13 @@
+.navbar-hidden{
+display: none;
+}
+
+.navbar{
+background-color:blanchedalmond;
+font-size: medium;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#para{
+color: blue;
+}
